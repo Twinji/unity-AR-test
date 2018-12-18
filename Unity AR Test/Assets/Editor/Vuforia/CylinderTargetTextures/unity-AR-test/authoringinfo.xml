@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.7.4">
+        <CylinderTarget name="bottle-2" version="3.0" targetId="2a2edc4eeaa74d658ee259bced1882a4" sideLength="0.190000" topDiameter="0.075000" bottomDiameter="0.075000" sideImage="bottle-2.Body_scaled.jpg" topImage="bottle-2.Top_scaled.jpg" bottomImage="bottle-2.Bottom_scaled.jpg"/>
+        <CylinderTarget name="bottle" version="3.0" targetId="0b36b7ebafaa4f489f959e3d59a38d83" sideLength="0.040000" topDiameter="0.060000" bottomDiameter="0.060000" sideImage="bottle.Body_scaled.jpg" topImage="bottle.Top_scaled.jpg" bottomImage="bottle.Bottom_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
