@@ -11,7 +11,7 @@ public class BottleUI : Gesturable {
 
         // the rotation amount is derived using the dot product, which is zero when two vectors are
         // exactly perpendicular and ranges between -1 and 1 in other cases
-        float rotationAmount = Vector3.Dot(transform.up, finalPosition - initialPosition);
+        float rotationAmount = Vector3.Dot(transform.right, finalPosition - initialPosition);
 
         transform.Rotate(Vector3.up, rotationAmount);
     }
